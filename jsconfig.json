@@ -1,0 +1,16 @@
+{    
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    },
+    "compilerOptions": {
+        "target": "esnext",
+        "checkJs": true,
+        "jsx": "react",
+        "moduleResolution": "node"
+    },
+    "exclude": [
+        "node_modules","public"
+    ]
+}
